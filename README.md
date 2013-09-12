@@ -12,6 +12,21 @@ grunt.js 練習用
 
 を行います。
 
+## directories
+
+とりあえず以下の様なディレクトリ構成で
+
+- project
+    - assets
+        - coffee
+        - scss
+    - grunt
+    - public_html
+        - css (出力先)
+        - js (出力先)
+
+>>>
+
 ## setting
 
 以下のコマンドで、インストールおよび package.json を作成しました。
